@@ -14,8 +14,8 @@ const MenuList: any[] = [
   {
     label: '脚本',
     id: 1,
-    name: 'duya-cli',
-    path: '/duya-cli/',
+    name: 'duya-brower-cli',
+    path: '/duya-brower-cli/',
     icon: <CodeOutlined />,
   },
 ];

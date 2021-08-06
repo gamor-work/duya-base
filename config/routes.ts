@@ -10,7 +10,7 @@ export default [
       },
       {
         path: '/cli',
-        microApp: 'duya-cli',
+        microApp: 'duya-brower-cli',
       },
     ],
   },
